@@ -1,4 +1,4 @@
-package com.example.kamirestauth;
+package com.jadd.kamirestauth;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
